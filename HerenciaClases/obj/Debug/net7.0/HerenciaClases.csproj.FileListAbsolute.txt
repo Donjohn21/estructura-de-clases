@@ -1,0 +1,14 @@
+C:\Users\usurio\Desktop\estructura de datos\HerenciaClases\bin\Debug\net7.0\HerenciaClases.exe
+C:\Users\usurio\Desktop\estructura de datos\HerenciaClases\bin\Debug\net7.0\HerenciaClases.deps.json
+C:\Users\usurio\Desktop\estructura de datos\HerenciaClases\bin\Debug\net7.0\HerenciaClases.runtimeconfig.json
+C:\Users\usurio\Desktop\estructura de datos\HerenciaClases\bin\Debug\net7.0\HerenciaClases.dll
+C:\Users\usurio\Desktop\estructura de datos\HerenciaClases\bin\Debug\net7.0\HerenciaClases.pdb
+C:\Users\usurio\Desktop\estructura de datos\HerenciaClases\obj\Debug\net7.0\HerenciaClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usurio\Desktop\estructura de datos\HerenciaClases\obj\Debug\net7.0\HerenciaClases.AssemblyInfoInputs.cache
+C:\Users\usurio\Desktop\estructura de datos\HerenciaClases\obj\Debug\net7.0\HerenciaClases.AssemblyInfo.cs
+C:\Users\usurio\Desktop\estructura de datos\HerenciaClases\obj\Debug\net7.0\HerenciaClases.csproj.CoreCompileInputs.cache
+C:\Users\usurio\Desktop\estructura de datos\HerenciaClases\obj\Debug\net7.0\HerenciaClases.dll
+C:\Users\usurio\Desktop\estructura de datos\HerenciaClases\obj\Debug\net7.0\refint\HerenciaClases.dll
+C:\Users\usurio\Desktop\estructura de datos\HerenciaClases\obj\Debug\net7.0\HerenciaClases.pdb
+C:\Users\usurio\Desktop\estructura de datos\HerenciaClases\obj\Debug\net7.0\HerenciaClases.genruntimeconfig.cache
+C:\Users\usurio\Desktop\estructura de datos\HerenciaClases\obj\Debug\net7.0\ref\HerenciaClases.dll
